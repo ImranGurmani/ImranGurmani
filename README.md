@@ -128,9 +128,9 @@ My own Learning Management System with 106+ active enrolled students.
 
 ---
 
-### YT Analyzer Pro — YouTube SaaS Tool
+### YouTube Analyzer Pro — YouTube SaaS Tool
 
-> **[yt-analyzer-pro.vercel.app](https://yt-analyzer-pro.vercel.app)**
+> **[analyzer.genxempire.com] (https://analyzer.genxempire.com)**
 
 A full A-to-Z YouTube channel and video analysis tool for content creators.
 
