@@ -1,134 +1,76 @@
-<!-- ======================================================== -->
-<!-- Imran Khan Gurmani (Jigar Gurmani) - GitHub Profile README -->
-<!-- Palette: Obsidian Dark (#08080C) + Luxury Neon Gold (#FACC15) -->
-<!-- Generated for: https://imrangurmani.shop -->
-<!-- ======================================================== -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=08080c&height=220&section=header&text=Imran%20Khan%20Gurmani&fontSize=42&fontColor=FACC15&fontAlignY=40&desc=Full-Stack%20Architect%20%7C%20AI%20Ventures%20%7C%20Digital%20Entrepreneur&descColor=A1A1AA&descAlignY=62" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:28200A,100:08080C&height=230&section=header&text=IMRAN%20KHAN%20GURMANI&fontSize=37&fontColor=FACC15&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20AI%20Builder&descAlignY=59&descColor=E5E7EB" width="100%" alt="Imran Khan Gurmani animated header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FACC15&center=true&vCenter=true&width=780&lines=Building+Scalable+SaaS+Platforms;Shipping+Real-World+Web+Applications;Automating+Workflows+with+AI;From+Architecture+to+Deployment" alt="Animated developer introduction" />
+
+<a href="https://imrangurmani.shop"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-FACC15?style=for-the-badge&labelColor=08080C" alt="Portfolio" /></a>
+<a href="https://wa.me/923021008282"><img src="https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&labelColor=08080C&logo=whatsapp" alt="WhatsApp" /></a>
+<a href="mailto:contact@imrangurmani.shop"><img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-FACC15?style=for-the-badge&labelColor=08080C&logo=gmail" alt="Email" /></a>
+
+**Kot Addu, Punjab, Pakistan · Also known as Jigar Gurmani**
+
+*Designing, building and deploying digital products for real-world businesses.*
+
 </div>
 
-<p align="center">
-  <a href="https://imrangurmani.shop"><img src="https://img.shields.io/badge/Portfolio-imrangurmani.shop-FACC15?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=08080c" alt="Portfolio" /></a>
-  <a href="mailto:contact@imrangurmani.shop"><img src="https://img.shields.io/badge/Email-Get_in_Touch-FFE249?style=for-the-badge&logo=gmail&logoColor=000&labelColor=08080c" alt="Email" /></a>
-  <a href="https://github.com/imrangurmani"><img src="https://img.shields.io/badge/Location-Kot%20Addu%2C%20Pakistan-FACC15?style=for-the-badge&logo=location-dot&logoColor=FACC15&labelColor=08080c" alt="Location" /></a>
-</p>
+## ⚡ About
 
-<p align="center">
-  <strong>"Crafting scalable code, mission-critical SaaS, and next-generation speech tech."</strong><br>
-  Known across the developer web as <em>Jigar Gurmani</em>
-</p>
+I'm **Imran Khan Gurmani**, a full-stack developer focused on SaaS systems, business automation, AI integrations, CRM platforms and learning management systems. I work across product architecture, backend engineering, front-end interfaces and deployment.
 
----
+- 🧩 Multi-tenant SaaS, white-label panels and API integrations
+- 🛠️ PHP, JavaScript, Node.js, Python, MySQL, React and Next.js
+- 🤖 AI-assisted workflows, creator tools and speech technologies
+- 🌐 Portfolio: **[imrangurmani.shop](https://imrangurmani.shop)**
 
-### ⚡ Operational Telemetry & Metrics
+## 🪐 Featured work
 
-- 🚀 **Projects Completed:** 50+ Production web apps, SaaS panels & APIs.
-- 🤝 **Client Success:** 30+ Happy clients worldwide with 100% satisfaction.
-- ⚡ **SaaS Uptime:** 99.9% uptime track record across high-volume platforms.
-- 🎓 **GenXEmpire:** Trained 100+ students in full-stack engineering & AI workflows.
-- 📍 **Base:** Kot Addu, Punjab, Pakistan.
+| Product | Focus | Link |
+|---|---|---|
+| **GeoRentalPanel** | Multi-tenant SaaS and child panel architecture | [Explore](https://georentalpanel.online) |
+| **GeoSMM** | API-integrated white-label service panel | [Explore](https://geosmm.pk) |
+| **GenXEmpire** | Learning management and course delivery | [Explore](https://genxempire.com) |
+| **YouTube Analyzer Pro** | Channel insights and creator analytics | [Explore](https://analyzer.genxempire.com) |
+| **MicroSmartLoan** | Loan management CRM and repayments | [Explore](https://microsmartloan.in) |
+| **ADIBRO** | E-commerce storefront | [Explore](https://adibro.in) |
+| **SynVoice** | AI speech and voice technology | [Explore](https://synvoice.io) |
+| **RenZoify** | Custom software and web development | [Explore](https://renzoify.com) |
 
----
-
-### 🛸 Flagship Ventures & Ecosystem
-
-| Platform | Core Domain | Technology Stack |
-| :--- | :--- | :--- |
-| **[SynVoice.io](https://synvoice.io)** | AI Voice Cloning & Speech Synthesis Platform | Python, XTTS-v2, StyleTTS 2, Astro JS, Tailwind |
-| **[GeoSMM.pk](https://geosmm.pk)** | High-Traffic SMM Automation & Reseller API Gateway | PHP 8.2, MySQL High-Perf, Webhooks, Cron Queues |
-| **[GenXEmpire.com](https://genxempire.com)** | AI Automation Academy & LMS Community | Astro JS, Tailwind CSS, Member Gating, Payments |
-| **[MicroSmartLoan.in](https://microsmartloan.in)** | Complete Loan Management CRM & Installment Tracker | PHP, MySQL, Financial Math Engine, RBAC |
-| **[RenZoify](https://renzoify.com)** | Bespoke Software Development & Web Agency | Full-Stack Modern Web, Custom CMS, UI/UX |
-
----
-
-### 🛠️ Tech Arsenal & Stack
-
-\`\`\`yaml
-Languages:     PHP (8.x), JavaScript (ES6+), Python, SQL, HTML5/CSS3
-Frameworks:    Astro JS, Node.js, Express, Tailwind CSS
-Databases:     MySQL, MariaDB, Supabase, Redis
-AI / Speech:   XTTS-v2, StyleTTS 2, Gemini API, ChatGPT / OpenAI APIs
-Tooling:       Cursor AI, Roo Code, VS Code, Git/GitHub, Cloudflare, Linux Bash
-\`\`\`
-
----
-
-### 📊 GitHub Activity & Golden Telemetry
+## 🛠️ Engineering toolkit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrangurmani&show_icons=true&title_color=FACC15&text_color=D4D4D8&icon_color=FACC15&bg_color=08080c&border_color=27273a&hide_border=false" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrangurmani&theme=dark&background=08080c&border=27273a&stroke=FACC15&ring=FACC15&fire=FACC15&currStreakNum=FACC15&sideNums=EAB308&currStreakLabel=FACC15&dates=A1A1AA" width="49%" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,nodejs,react,nextjs,html,css,tailwind,mysql,redis,git,github,vercel,cloudflare,linux&perline=9" alt="Technology stack" />
 </div>
 
-<br>
+## 📡 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangurmani&layout=compact&title_color=FACC15&text_color=D4D4D8&bg_color=08080c&border_color=27273a&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ImranGurmani&show_icons=true&include_all_commits=true&theme=transparent&title_color=FACC15&text_color=D4D4D8&icon_color=FACC15&border_color=4B421D" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=ImranGurmani&theme=dark&background=08080C&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&border=4B421D" alt="Contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranGurmani&layout=compact&theme=transparent&title_color=FACC15&text_color=D4D4D8&border_color=4B421D" alt="Most used languages" />
+
+**To show eligible private contributions on GitHub's native calendar, enable “Private contributions” in profile settings. Third-party stats cards may exclude private commits.**
+
 </div>
 
----
+## 🐍 Contribution animation
 
-### 🐍 GitHub Contribution Snake
-
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrangurmani/imrangurmani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrangurmani/imrangurmani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/imrangurmani/imrangurmani/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImranGurmani/ImranGurmani/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ImranGurmani/ImranGurmani/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
 </picture>
+</div>
 
----
+## 🤝 Work with me
 
-<p align="center">
-  <em>Designed with pride for <strong>Imran Khan Gurmani (Jigar Gurmani)</strong> • <a href="https://imrangurmani.shop">imrangurmani.shop</a></em>
-</p>
-`;
+Building a SaaS product, CRM, AI integration or custom web platform? Reach out via [my portfolio](https://imrangurmani.shop) or [WhatsApp](https://wa.me/923021008282).
 
-    // 6. Modal Functions
-    const modal = document.getElementById("readmeModal");
-    const markdownArea = document.getElementById("markdownArea");
-    const toast = document.getElementById("toast");
-    const copyBtnLabel = document.getElementById("copyBtnLabel");
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,50:4B421D,100:08080C&height=110&section=footer" width="100%" alt="Footer" />
 
-    markdownArea.value = customizedReadmeMarkdown;
-
-    function openReadmeModal() {
-      modal.classList.remove("hidden");
-    }
-
-    function closeReadmeModal() {
-      modal.classList.add("hidden");
-    }
-
-    modal.addEventListener("click", (e) => {
-      if (e.target === modal) closeReadmeModal();
-    });
-
-    function showToastNotification() {
-      toast.classList.remove("translate-y-20", "opacity-0");
-      setTimeout(() => {
-        toast.classList.add("translate-y-20", "opacity-0");
-      }, 3500);
-    }
-
-    function copyMarkdownText() {
-      const tempTextArea = document.createElement("textarea");
-      tempTextArea.value = customizedReadmeMarkdown;
-      document.body.appendChild(tempTextArea);
-      tempTextArea.select();
-      try {
-        document.execCommand('copy');
-        showToastNotification();
-        copyBtnLabel.textContent = "Copied!";
-        setTimeout(() => {
-          copyBtnLabel.textContent = "Copy All Code";
-        }, 2500);
-      } catch (err) {
-        console.error("Copy failed", err);
-      }
-      document.body.removeChild(tempTextArea);
-    }
-  </script>
-</body>
-</html>
+*Built in Pakistan · Delivered worldwide*
+</div>
