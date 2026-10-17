@@ -46,13 +46,15 @@ I'm **Imran Khan Gurmani**, a full-stack developer focused on SaaS systems, busi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImranGurmani&show_icons=true&include_all_commits=true&bg_color=08080C&title_color=FACC15&text_color=D4D4D8&icon_color=FACC15&border_color=4B421D" alt="GitHub statistics" />
+**Contributions and commits are different metrics.** GitHub’s native contribution calendar shows eligible activity, including private contributions when enabled in profile settings.
+
+[View my live GitHub contribution calendar](https://github.com/ImranGurmani)
 
 <img src="https://streak-stats.demolab.com?user=ImranGurmani&theme=dark&background=08080C&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&border=4B421D" alt="Contribution streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranGurmani&layout=compact&bg_color=08080C&title_color=FACC15&text_color=D4D4D8&border_color=4B421D" alt="Most used languages" />
 
-**To show eligible private contributions on GitHub's native calendar, enable “Private contributions” in profile settings. Third-party stats cards may exclude private commits.**
+****Third-party streak metrics are estimates, not verified all-time public and private commit totals.**n GitHub's native calendar, enable “Private contributions” in profile settings. Third-party stats cards may exclude private commits.**
 
 </div>
 
