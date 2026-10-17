@@ -46,11 +46,11 @@ I'm **Imran Khan Gurmani**, a full-stack developer focused on SaaS systems, busi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImranGurmani&show_icons=true&include_all_commits=true&theme=transparent&title_color=FACC15&text_color=D4D4D8&icon_color=FACC15&border_color=4B421D" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=ImranGurmani&show_icons=true&include_all_commits=true&bg_color=08080C&title_color=FACC15&text_color=D4D4D8&icon_color=FACC15&border_color=4B421D" alt="GitHub statistics" />
 
 <img src="https://streak-stats.demolab.com?user=ImranGurmani&theme=dark&background=08080C&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&border=4B421D" alt="Contribution streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranGurmani&layout=compact&theme=transparent&title_color=FACC15&text_color=D4D4D8&border_color=4B421D" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranGurmani&layout=compact&bg_color=08080C&title_color=FACC15&text_color=D4D4D8&border_color=4B421D" alt="Most used languages" />
 
 **To show eligible private contributions on GitHub's native calendar, enable “Private contributions” in profile settings. Third-party stats cards may exclude private commits.**
 
@@ -61,7 +61,7 @@ I'm **Imran Khan Gurmani**, a full-stack developer focused on SaaS systems, busi
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImranGurmani/ImranGurmani/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ImranGurmani/ImranGurmani/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/ImranGurmani/ImranGurmani/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
 </picture>
 </div>
 
